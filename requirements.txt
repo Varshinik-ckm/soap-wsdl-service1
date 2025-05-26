@@ -1,4 +1,5 @@
 flask
 spyne
-lxml
 gunicorn
+lxml
+requests
